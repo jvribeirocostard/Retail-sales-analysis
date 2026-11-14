@@ -2,7 +2,7 @@
 
 Este projeto analisa as vendas de uma empresa de varejo dos Estados Unidos entre 2014 e 2018, buscando entender o desempenho de diferentes categorias em relação à lucratividade de suas vendas.
 
-A análise foi feita em Jupyter Notebook, com Python (pandas, seaborn e matplotlib), usando um [dataset público do Kaggle](https://www.kaggle.com/datasets/shandeep777/retail-supply-chain-sales-dataset/data)..
+A análise foi feita em Jupyter Notebook, com Python (pandas, seaborn e matplotlib), usando um [dataset público do Kaggle](https://www.kaggle.com/datasets/shandeep777/retail-supply-chain-sales-dataset/data).
 
 ## Pergunta de Negócio
 
